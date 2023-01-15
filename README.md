@@ -1,0 +1,2 @@
+# japanese
+notes for class
